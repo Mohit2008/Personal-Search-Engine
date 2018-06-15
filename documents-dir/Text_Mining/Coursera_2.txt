@@ -1,0 +1,19 @@
+HomeData ScienceData Analysis
+Text Mining and Analytics
+About this course: This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. 
+
+Detailed analysis of text data requires understanding of natural language text, which is known to be a difficult task for computers. However, a number of statistical approaches have been shown to work well for the "shallow" but robust analysis of text data for pattern finding and knowledge discovery. You will learn the basic concepts, principles, and major algorithms in text mining and their potential applications.
+More
+Created by:  University of Illinois at Urbana-Champaign
+University of Illinois at Urbana-Champaign
+ChengXiang Zhai
+Taught by:  ChengXiang Zhai, Professor
+Department of Computer Science
+Basic Info	
+Course 3 of 6 in the Data Mining Specialization
+Language	
+English
+How To Pass	Pass all graded assignments to complete the course.
+User Ratings	
+Average User Rating 4.4See what learners said
+Try for Free

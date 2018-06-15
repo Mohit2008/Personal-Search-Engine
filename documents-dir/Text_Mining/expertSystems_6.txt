@@ -1,0 +1,37 @@
+IT|FR|ES|EN|DE
+
+
+INDUSTRIES
+SOLUTIONS
+PRODUCTS
+COMPANY
+Text mining vs data mining: discover the differences
+Home » Blog » Enitity Extraction » Knowledge management » Text mining vs data mining: discover the differences
+15
+Sep
+September 15, 2016 - 11:33  Enitity Extraction, Knowledge management
+text mining vs data mining: discover the main differences
+Text mining and data mining are often used interchangeably to describe how information or data is processed. This is true, but only in a very general sense. In this post (text mining vs data mining), we’ll look at the important ways that text mining and data mining are different.
+
+Text Mining vs Data Mining: Which came first?
+Until recently, IT specialists in the enterprise data world focused on “data mining”, which we can define as the discovery of knowledge from structured data (data contained in structured databases or data warehouses.) Today the majority of available business data is unstructured information; even though it may also contain numbers, dates and facts in structured fields, unstructured information is typically text (articles, website text, blog posts, etc.). The presence of unstructured information makes it more difficult to effectively perform knowledge management activities using traditional business intelligence tools.
+
+The discovery of knowledge sources that contain text or unstructured information is called “text mining”. So, the main difference between data mining and text mining is that in text mining data is unstructured.
+
+Data mining vs text mining approaches
+Just as data mining is not just a unique approach or a single technique for discovering knowledge from data, text mining also consists of a broad variety of methods and technologies such as:
+
+● Keyword-based technologies: The input is based on a selection of keywords in text that are filtered as a series of character strings, not words nor “concepts”.
+● Statistics technologies: Refers to systems based on machine learning. Statistics technologies leverage a training set of documents used as a model to manage and categorize text.
+● Linguistic based technologies: This method may leverage language processing systems. The output of text analysis allows a shallow understanding of the structure of the text, the grammar and logic employed. (For a better understanding of how this works, this post on text mining and NLP is helpful.)
+
+All these approaches have a common feature: they are all concerned with processing text in an approximate way since they are not capable to understand them.
+
+Unlike these technologies, a cognitive technology such as Cogito is designed to understand and analyze text not by guessing at the meaning of words, but by relying on a deep semantic analysis and a rich knowledge graph to ensure a precise, complete and more effective understanding of text as a person would.
+
+For more information on how NLP is different from text mining click here.
+
+Marketing Staff
+Marketing Staff
+
+Our team of IT marketing professionals and digital enthusiasts are passionate about semantic technology and cognitive computing and how it will transform our world. We’ll keep you posted on the latest Expert System products, solutions and services, and share the most interesting information on semantics, cognitive computing and AI from around the web, and from our rich library of white papers, customer case studies and more.

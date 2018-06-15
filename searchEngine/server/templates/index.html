@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>Search</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="{{url_for('static', filename='jquery.js') }}">\x3C/script>')</script>
+    <script type="text/javascript">
+      function bytesToSize(bytes) {
+         var sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
+         if (bytes == 0) return '0 Byte';
+         var i = parseInt(Math.floor(Math.log(bytes) / Math.log(1024)));
+         return Math.round(bytes / Math.pow(1024, i), 2) + ' ' + sizes[i];
+      };
+      addEventListener('input', function(evt) {
+        var datatosend = evt.target.value;
+        if (datatosend && datatosend.length !== 0)
+        {
+          var route = "search";
+          var request = new XMLHttpRequest();
+          request.onload = function() {
+            document.getElementById("search-results").innerHTML = "";
+            var resp = JSON.parse(request.response);
+            if ((Object.keys(resp).length === 1) && (resp["0"].length === 1))
+            {
+                var suggestedWordEl = document.createElement('span');
+                suggestedWordEl.innerHTML = 'Did you mean "' + resp["0"][0] + "'?";
+                document.getElementById("search-results").appendChild(suggestedWordEl);
+            }
+            else if (Object.keys(resp).length > 1)
+            {
+                var allResultsContainer = document.createElement('div');
+                allResultsContainer.id = "all-results";
+                for (var key in resp)
+                {
+                  var resultContainer = document.createElement('div');
+                  resultContainer.id = "result" + key;
+                  resultContainer.style = "margin-bottom: 10px;"
+                  var fileName = document.createElement('span');
+                  fileName.innerHTML = resp[key][1];
+                  var fileSize = document.createElement('span');
+                  var fileSizeValue = bytesToSize(parseInt(resp[key][2]));
+                  fileSize.innerHTML = fileSizeValue;
+                  fileSize.style = "margin-left: 10px";
+                  var newLine1 = document.createElement('br');
+                  var filePath = document.createElement('a');
+                  filePath.href = "file://" + resp[key][0];
+                  filePath.innerHTML = resp[key][0];
+                  var newLine2 = document.createElement('br');
+                  resultContainer.appendChild(fileName);
+                  resultContainer.appendChild(fileSize);
+                  resultContainer.appendChild(newLine1);
+                  resultContainer.appendChild(filePath);
+                  resultContainer.appendChild(newLine2);
+                  allResultsContainer.appendChild(resultContainer);
+                }
+                var resultsCount = document.createElement('div');
+                resultsCount.innerHTML = "Displaying top " + resp[key][3] + " results";
+                resultsCount.style = "color: #F57574";
+                document.getElementById("search-results").appendChild(allResultsContainer);
+                document.getElementById("search-results").appendChild(resultsCount);
+            }
+          };
+          request.open("GET", "/" + route + "/" + datatosend + "/", true);
+          request.send();
+        }
+      });
+    </script>
+  </head>
+  <body>
+      <div style="display: inline-flex" >
+        <div style="margin-top: 56px; margin-left: 200px">
+          <img src="{{url_for('static', filename='logo1.jpg')}}" style="width: 250px; height: 200px;"/>
+        </div>
+        <div style="margin-top: 120px">
+          <h1>Local Desktop Search Engine</h1>
+          <input type="text" placeholder="Search here..." class="text-search" id="search-input" name="search-input" style="margin-top: -4px; width: 398px; height: 25px;"/>
+        </div>
+      </div>
+      <div id="search-results" style="margin-left:244px; margin-top: 15px;">
+  </body>
+</html>

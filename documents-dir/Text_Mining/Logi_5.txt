@@ -1,0 +1,19 @@
+CREATE, DEPLOY, AND MAINTAIN ANALYTIC APPLICATIONS THAT ENGAGE USERS AND DRIVE REVENUE. SEE A LOGI DEMO
+Platform
+Resources
+Blog
+Trial
+DEMO
+Text Mining
+Text mining is the process of deriving insights from text. This information is typically obtained through determining patterns and trends within text through methods such as statistical pattern learning. It typically involves the process of structuring the input text, deriving a pattern within the structured data, and finally evaluating and interpreting the output.
+
+The goal of text mining is to essentially turn text into data for analysis with applying natural language processing (NLP) and analytical methods. To accomplish this, text mining involves information and data retrieval, lexical analyses to study word frequency distributions, pattern recognition, tagging and annotation, information extraction, data mining techniques, visualization, and predictive analytics.
+
+Some subtasks of text mining include:
+
+Information retrieval or identification
+Recognition of pattern identified entities: features such as telephone numbers, e-mail addresses, quantities, etc.
+Relationship, fact, and event extraction: identifying associations among entities and other information in text
+Sentiment analysis involving discerning subjective material
+Quantitative text analysis
+

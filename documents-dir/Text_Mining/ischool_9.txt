@@ -1,0 +1,80 @@
+ Information Space
+The Official Blog of the Syracuse University iSchool
+      
+Search for:
+Search …
+  
+ABOUT
+STAFF
+OUR BLOGGERS
+TOPICS
+What is Text Mining?
+What is Text Mining?
+By Stephanie Prato | April 23, 2013
+
+Text mining, which is sometimes referred to “text analytics” is one way to make qualitative or “unstructured” data usable by a computer.
+
+Qualitative data is descriptive data that cannot be measured in numbers and often includes qualities of appearance like color, texture, and textual description. Quantitative data is numerical, structured data that can be measured. However, there is often slippage between qualitative and quantitative categories. For example, a photograph might traditionally be considered “qualitative data” but when you break it down to the level of pixels, which can be measured.
+
+Did you know?
+
+An estimated 80% of data is unstructured?
+This includes emails, newspaper or web articles, internal reports, transcripts of phone calls, research papers, blog entries, and patent applications, to name a few.
+Thanks to the web and social media, More than 7 million web pages of text are being added to our collective repository, daily
+You can now begin to see the usefulness of software that can “read” between 15,000- 250,000 pages an hour, compared to a mere sixty pages for humans.
+
+So what is text mining?
+keyword mapping
+Image from researchtrends.com
+The Oxford English Dictionary defines text mining as the process or practice of examining large collections of written resources in order to generate new information, typically using specialized computer software. It is a subset of the larger field of data mining. Guernsey explains that “to the uninitiated, it may seem that Google and other Web search engines do something similar, since they also pore through reams of documents in split-second intervals. But, as experts note, search engines are merely retrieving information, displaying lists of documents that contain certain keywords. They do not suggest connections or generate any new knowledge. Text-mining programs go further, categorizing information, making links between otherwise unconnected documents and providing visual maps.
+
+Some applications of text-mining include:
+
+Enterprise Business Intelligence/Data Mining, Competitive Intelligence
+E-Discovery, Records Management
+National Security/Intelligence
+Scientific discovery, especially Life Sciences 
+Search/Information Access
+Social media monitoring
+How does text mining work?
+The JISC and National Centre for Text Mining explain how “text mining involves the application of techniques from areas such as information retrieval, natural language processing, information extraction and data mining. These various stages of a text-mining process can be combined into a single workflow”.
+
+Information retrieval (IR) systems match a user’s query to documents in a collection or database. The first step in the text mining process is to find the body of documents that are relevant to the research question(s).
+Natural language processing (NLP) analyzes the text in structures based on human speech. It allows the computer to perform a grammatical analysis of a sentence to “read” the text.
+Information extraction (IE) involves structuring the data that the NLP system generates.
+Data mining (DM) is the process of identifying patterns in large sets of data, to find that new knowledge.
+Potential weakness of text mining
+Finally, as a word of caution, text mining doesn’t generate new facts and is not an end, in and of itself. The process is most useful when the data it generates can be further analyzed by a domain expert, who can bring additional knowledge for a more complete picture. Still, text mining creates new relationships and hypotheses for experts to explore further.
+
+Have you worked on seen any interesting text mining projects?  Please share in the comments.
+
+
+Stephanie Prato
+Stephanie C. Prato is the Director of Play to Learn Services at the Fayetteville Free Library. Stephanie is passionate about literacy and STEAM learning in libraries. She is interested in helping patrons of all ages discover maker culture and inspiring them to imagine, build, create, and share their knowledge with the community. She is an alumna of Syracuse University's iSchool and recently earned her MLIS. Follow her on Twitter @scprato.
+More Posts - Website - Twitter
+No related posts.
+
+Posted in:
+Librarianship
+Tagged with:
+Big datadata science
+
+Subscribe to InfoSpace 
+Enter your email address
+Subscribe
+More in Librarianship
+
+ Library Friday with an Am Flight 103/Lockerbie Air Disaster Archivist Vanessa St. Oegger-MennLibrary Friday: Pan Am 103/Lockerbie Air Disaster Archives
+Heidi Bryson is completing her School Librarianship summer work at the J.T. Roberts PreK-8 School in Syracuse.The Beginning of a School Librarian Career
+Carnegie Library Reading Room Interior - Syracuse UniversityLibrary Friday: New LIS Student Survival Guide
+Kimberly Hoffman - Fort Stanwix Internship BlogReflecting on the Secret Lives of Objects
+Editor's Picks
+
+Jill Hurst-WahlLong Days Held Close to the Heart
+5 Myths about Information Technology, Design, and Startups (IDS) minorTop 5 Misconceptions of the Information Technology, Design, and Startups (IDS) Minor
+Martha Garcia-MurilloLearning to be Creative – Tips and Tricks
+iSchool LIS Students Give their 2017 Summer Reading recommendations.Library Friday: 9 Books for Your 2017 Summer Reading List
+The Many Benefits of Data Analysis: Air Quality ResearchThe Many Benefits of Data Analysis: Air Quality Research
+ School of Information Studies at Syracuse University
+ABOUT
+STAFF

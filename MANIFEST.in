@@ -1,0 +1,3 @@
+include searchEngine/server/static/*.jpg
+include searchEngine/server/static/*.ico
+include searchEngine/server/templates/*.html

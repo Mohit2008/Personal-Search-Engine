@@ -1,0 +1,170 @@
+
+Topics
+Reference
+Advisors
+Markets
+Simulator
+NEW Academy
+ 
+Search News, Symbols, Terms
+  
+
+
+The Basics of a 401(k) Retirement Plan By Mark P. Cussen, CFP®, CMFC, AFC | Updated May 6, 2017 — 6:00 AM EDT
+  SHARE
+ 
+ 
+Since its inception in 1978, the 401(k) plan has grown to be the most popular type of employer-sponsored retirement plan in America. Millions of workers depend on the money that they have saved in this plan to provide for their retirement years, and many employers use their 401(k) plans as a means of distributing company stock to employees. Few other plans can match the relative flexibility that 401(k)s offer.
+
+More recently, several variations of this plan emerged, such as the SIMPLE 401(k) and the safe-harbor 401(k). Here, we'll go over 401(k)s and show you how they are helping millions of people prepare for retirement. (For background reading, see the 401(k) and Qualified Plans Tutorial.)
+
+What Is a 401(k) Plan?
+By definition, a 401(k) plan is an arrangement that allows an employee to choose between taking compensation in cash or deferring a percentage of it to a 401(k) account under the plan. The amount deferred is usually not taxable to the employee until it is withdrawn or distributed from the plan. However, if the plan permits, an employee can make 401(k) contributions on an after-tax basis (these accounts are known as Roth 401(k)s), and these amounts are generally tax-free when withdrawn. 401(k) plans are a type of retirement plan known as a qualified plan, which means that this plan is governed by the regulations stipulated in the Employee Retirement Income Security Act of 1974 and the tax code.
+
+Qualified plans can be divided two different ways: they can be either defined-contribution or defined-benefit (pension) plans. 401(k) plans are a type of defined-contribution plan, which means that a participant's balance is determined by contributions made to the plan and the performance of plan investments. The employer is usually not required to make contributions to the plan, as is usually the case with a pension plan. However, many employers choose to match their employees' contributions up to a certain percentage, and/or make contributions under a profit-sharing feature. (For related reading, see The Demise of the Defined-Benefit Plan.)
+
+Contribution Limits
+For 2017, the maximum amount of compensation that an employee can defer to a 401(k) plan is $18,000. Employees aged 50 by the end of the year and older can also make additional catch-up contributions of up to $6,000. The maximum allowable employer/employee joint contribution limit remains at $53,000 for 2016 and $54,000 for 2017 (or $59,000 for those aged 50 and older). The employer component includes matching contributions, nonelective contributions and/or profit-sharing contributions.
+
+Investments
+Typically, plan contributions are invested in a portfolio of mutual funds, but can include stocks, bonds and other investment vehicles as permitted under the provisions of the governing plan document.
+
+"Many 401k plans have index fund options which are inexpensive ways to invest in a diversified mix of assets. A U.S. large capitalized (cap) growth and value option is a good place to start. Then add a mid-cap choice, followed by a small-cap choice. Both could be growth," says Elyse Foster, CFP®, founder of Harbor Financial Group, Boulder, Colo. "Then choose a foreign index; large cap choices are usually offered. Bonds can be added via an index as well – a broad U.S. corporate bond fund is a good idea. Many 401(k)s are now offering a real estate option in the form of a REIT. This is an excellent way to diversify. If the plan offers a foreign REIT, buy both. This diversified mix will, over time, perform well."
+
+
+Distribution Rules
+The distribution rules for 401(k) plans differ from those that apply to IRAs. The money inside the plan grows tax-deferred as with IRAs. But whereas IRA distributions can be made at any time, a triggering event must be satisfied in order for distributions to occur from a 401(k) plan. As a result, 401(k) assets can usually be withdrawn only under the following conditions:
+
+Upon the employee's retirement, death, disability or separation from service with the employer
+Upon the employee's attainment of age 59½
+When the employee experiences a hardship as defined under the plan, if the plan permits hardship withdrawals (see When a 401(k) Hardship Withdrawal Makes Sense)
+Upon the termination of the plan
+Required minimum distributions (RMDs) must begin at age 70½, unless the participant is still employed and the plan allows RMDs to be deferred until retirement. "If you still enjoy working in your golden years and reach that most important 70½ where RMDs are required, you do not have to take them from the 401(k) where you are still working. You will, however, have to take RMDs from any IRAs or other retirement accounts (excluding Roth IRAs). But you could roll your IRAs or old 401(k)s into your existing 401(k) where you are still working and avoid RMDs while employed. Avoidance of the RMDs over 70½ while still working always assumes you do not own more than 5% of the company; otherwise, you will have to take RMDs even if still working," says Dan Stewart, CFA®, president and chief investment officer, Revere Asset Management, Inc., Dallas Texas.
+
+Distributions will be counted as ordinary income and assessed a 10% early distribution penalty if the distribution occurs before age 59½, unless an exceptions applies. Exceptions include the following:
+
+The distributions occur after the death or disability of the employee.
+The distributions occur after the employee separates from service, providing the separation occurs during or after the calendar year that the employee attains age 55.
+The distribution is made to an alternate payee under a qualified domestic relations order (QDRO). (For more on this, see Divorcing? The Right Way to Split Retirement Plans.)
+The employee has deductible medical expenses exceeding 10% of adjusted gross income.
+The distributions are taken as a series of substantially equal periodic payments over the participant's life or the joint lives of the participant and beneficiary. (See Substantially Equal Periodic Payment (SEPP): Learn the Rules to learn more.)
+The distribution represents a timely correction of excess contributions or deferrals.
+The distribution is as a result of an IRS levy on the employee's account.
+The distribution is not taxable.
+The exceptions for higher-education expenses and first-time home purchases only apply to IRAs.
+
+The majority of retirees who draw income from their 401(k)s choose to roll over the amounts to a traditional IRA or Roth IRA. A rollover allows them to escape the limited investment choices that are often presented in 401(k) accounts. Employees who have employer stock in their plans are also eligible to take advantage of the "net unrealized appreciation" rule (NUA) and receive capital gains treatment on the earnings. (See Rolling Over Company Stock: A Decision to Think Twice About.)
+
+Loans
+Plan loans are another way that employees can access their plan balances, but several restrictions apply. First, the loan option is available at the employer's discretion – if the employer chooses not to allow plan loans, no loans will be available. If this option is allowed, then up to 50% of the employee's vested balance can be accessed, providing the amount does not exceed $50,000, and it must usually be repaid within five years. However, loans used for primary home purchases can be repaid over longer periods.
+
+The interest rate must be comparable to the rate charged by lending institutions for similar loans. Any unpaid balance left at the end of the term may be considered a distribution and will be taxed and penalized accordingly. (For more on loans, see Should You Borrow from Your Retirement Plan? and 8 Reasons to Never Borrow from Your 401(k).)
+
+Limits for High-Income Earners
+For most rank-and-file employees, the dollar contribution limits are high enough to allow for adequate levels of income deferral. But the dollar contribution limits imposed on 401(k) plans can be a handicap for employees who earn several hundred thousand dollars a year. An employee who earns $750,000 in 2017 can only include the first $270,000 of income when computing the maximum possible contributions to a 401(k) plan. Employers have the option of providing nonqualified plans, such as deferred compensation or executive bonus plans for these employees in order to allow them to save additional income for retirement. "Annuities would offer tax deferral of growth, but not a deduction," says Allan Katz, president, Comprehensive Wealth Management Group, LLC, Staten Island, N.Y.
+
+The Bottom Line
+401(k) plans will continue to play a major role in the retirement planning industry for years to come. In this article, we have only touched on the major provisions of 401(k) plans. For more specific information on the options available to you, check with your employer and plan provider. And watch for possible changes in the tax deductibility of 401(k)s (see Congress May Take Away Your 401(k) Tax Deduction).
+
+Ads
+Your Net Worth vs Peers
+fi.com
+If you have a $500k portfolio, download the "Your Net Worth" guide from Ken Fisher's firm.
+Buy Bitcoin With Your IRA
+bitcoinira.com
+Get a free guide to explain about this IRS-compliant investment program.
+Apply For Disability
+www.disabilityapprovalguide.com
+Find Out If You May Qualify For Up To $2,671/mo in Disability Benefits
+RELATED ARTICLES
+
+RETIREMENT
+Should You Roll Over Your 401(k)?
+Before moving your retirement funds into another account, consider your options.
+4 Biggest Money Wasters That Hurt Your Business
+SPONSORED CONTENT
+4 Biggest Money Wasters That Hurt Your Business
+BY CALIFORNIA BANK & TRUST
+Here are four common money wasters and what you can do about them.
+
+RETIREMENT
+How Can You Make the Most of Your 401(k)?
+Make the most of your 401(k) plan by contributing early and taking advantage of employer matches.
+
+RETIREMENT
+Introduction To SIMPLE 401(k) Plans
+Learn about the features and benefits of the plan that is a cross between a SIMPLE IRA and a traditional 401(k) plan.
+
+RETIREMENT
+4 Things You Should Know About 401(k) Plans
+Understanding the basics of and participating in a 401(k) plan will enhance your financial future.
+
+RETIREMENT
+My Employer Doesn't Offer a 401(k). Should I Care?
+Find out what do if your employer doesn't offer a 401(k) retirement savings plan, including alternative investment options and whether to switch jobs.
+
+RETIREMENT
+401(k) Investing for Military Veterans
+Military personnel have access to a thrift savings plan, which is similar to a 401(k) plan.
+
+RETIREMENT
+Is Your 401(k) Being Mismanaged?
+401(k) plans managed by the wrong people can be hazardous to your future!
+
+SMALL BUSINESS
+Plans The Small-Business Owner Can Establish
+Don't hesitate to adopt a smart plan for you and your employees.
+
+RETIREMENT
+This Is Why Your Employer Should Offer a 401(k)
+Understand the unique benefits that come with a small business offering a retirement savings plan such as a 401(k) to current and future employees.
+
+RETIREMENT
+10 Providers With 401(k) Plans for Small Employers
+If you're a small business that has steered clear of a 401(k) plan for your employees, find out how these providers can make it easier.
+RELATED FAQS
+When is a Roth 401(k) better than a traditional 401(k)?
+Learn the difference between Roth IRA plans, traditional 401(k) plans and Roth 401(k) plans, and when a Roth 401(k) is better ... Read Answer >>
+What's the difference between a 401(k) and a Roth IRA?
+A 401(k) and a Roth IRA differ primarily on tax treatment, investment options, employer involvement, and limitations on contributions ... Read Answer >>
+What happens to my 401(k) plan if I switch jobs?
+Roll over your old 401(k) plan to your new 401(k) plan or an IRA, cash it out, or leave it alone. Which option is right for ... Read Answer >>
+Who offers 401(k) plans?
+Find out who can offer 401(k) retirement plans. Also discover how a 401(k) plan can benefit both business owners and their ... Read Answer >>
+
+
+HOT DEFINITIONS
+Investing
+Stagflation
+Notional Value
+Interest Expense
+Call Option
+Pro-Rata
+
+Trading Center
+
+
+
+
+Partner Links
+
+
+
+
+
+Search Investopedia
+
+DICTIONARY: # A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+CONTENT LIBRARY
+Articles Terms Videos Guides Slideshows FAQs Calculators Chart Advisor Stock Analysis Stock Simulator FXtrader Exam Prep Quizzer Net Worth Calculator
+CONNECT WITH INVESTOPEDIA
+    
+WORK WITH INVESTOPEDIA
+About Us Advertise With Us Contact Us Careers
+GET FREE NEWSLETTERS
+Newsletters
+© 2017, Investopedia, LLC. All Rights Reserved Terms Of Use Privacy Policy
+  Feedback
+
+Read more: What Is A 401(k) Retirement Plan: Here Are The Basics http://www.investopedia.com/articles/retirement/08/401k-info.asp#ixzz4wO4ZFJ8W 
+Follow us: Investopedia on Facebook

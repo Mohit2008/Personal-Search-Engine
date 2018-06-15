@@ -1,0 +1,35 @@
+Text Mining and Data Mining are becoming increasingly widespread as companies try to tackle their unstructured information, or big data, for business value. While the goal is often the same—exploiting information for knowledge discovery—these techniques vary significantly when it comes to data complexity, deployment time and application. In this post, we’ll take a deeper look at how they are applied in real-world projects.
+
+At the outset, it is worth recalling their definitions:
+
+Text mining is the set of processes required to turn unstructured text documents or resources into valuable structured information. This requires both sophisticated linguistic and statistical techniques able to analyze unstructured text formats and techniques that combine each document with actionable metadata, which can be considered a sort of anchor in structuring this type of data. Once content has been annotated, it can automatically be classified, routed, summarized, visualized through link mapping and, most importantly, it becomes easier to search.
+
+What is data mining? Data mining is a process based on algorithms to analyze and extract useful information from data. It can be used to automatically discover hidden patterns and relationships in data, and to predict outcomes from large data sets.
+
+While the end goals are quite similar—use information to fuel decision making, reduce costs and increase revenue for business activities like issues detection, analysis and correction, or R&D discovery, forecasting and strategic planning—we need to look closely at text mining vs. data mining to understand how they are different.
+
+ 
+
+Text mining vs data mining: Unstructured versus Structured data
+Data mining systems essentially analyze figures that may be described as homogeneous and universal. They extract, transform and load data into a data warehouse. Business analysts use data mining software applications to present analyzed data in easily understandable forms, such as graphs. Currencies, dates, names, might have to be managed, but they are easy to link to data and do not require any deep understanding of their context.
+Text mining tools have to face major technical challenges such as heterogeneous document formats (text documents, emails, social media posts, verbatim text, etc.), as well as multilingual texts and abbreviations and slang typical of SMS language.
+ 
+
+Text mining vs data mining: Deployment time:
+
+Data mining is focused on data-dependent activities such as accounting, purchasing, supply chain, CRM, etc. The required data is easy to access and homogeneous. Once algorithms are defined, the solution can be quickly deployed.
+The complexity of the data processed make text mining projects longer to deploy. Text mining counts several intermediary linguistic stages of analysis before it can enrich content (language guessing, tokenization, segmentation, morpho-syntactic analysis, disambiguation, cross references, etc). Next, relevant terms extraction and metadata association steps tackle structuring the unstructured content to nurture domain-specific applications. Moreover, projects may involve some heterogeneous languages, formats or domains. Finally, few companies have their own taxonomy. However, this is mandatory for starting a text mining project and it can take a few months to be developed.
+Text mining vs data mining: Technology perception:
+
+Data mining has been considered a proven, robust and industrial technology for many decades.
+Text mining was historically thought of as complex, domain-specific, language-specific, sensitive, experimental, etc. In other words, text mining was not understood well enough to have management support and therefore, was never valued as a ‘must-have’. However, with the advent of digitalization, the rise of social networks and increased connectivity, companies are now more concerned about their online reputation and are looking for ways to increase loyalty with customers in a world of increasing choice. As a result, sentiment analysis is the new focus of text mining. Companies have realized that information is a strategic asset made of text and that text mining is no longer a luxury, but a necessity!
+Conclusion
+
+While text and data mining are now considered complementary techniques required for efficient business management, text mining tools are becoming even more important. A subset of text mining, Natural Language Processing is all the more relevant when the customer is 100% involved and available to help define accurate and complete domain-specific taxonomies. In turn, this helps information extraction and metadata association become easier and more efficient. Natural language will never be as easy to handle as figures, but text mining is now more mature and its association with data mining makes more sense. Don’t forget that 80% of information is made of text!
+
+Learn more about the differences between NLP and text mining.
+
+Marketing Staff
+Marketing Staff
+
+Our team of IT marketing professionals and digital enthusiasts are passionate about semantic technology and cognitive computing and how it will transform our world. We’ll keep you posted on the latest Expert System products, solutions and services, and share the most interesting information on semantics, cognitive computing and AI from around the web, and from our rich library of white papers, customer case studies and more.

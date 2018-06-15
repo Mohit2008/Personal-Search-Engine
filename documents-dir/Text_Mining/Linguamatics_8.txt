@@ -1,0 +1,42 @@
+What is text mining?
+
+
+Let's say you have a huge number of documents and data, and you're looking for something important that you think lies hidden within.
+
+How do you go about searching those documents?
+
+
+
+Traditional keyword search retrieves all the documents that contain the keywords you’ve specified.
+
+That’s great as far as it goes, but you still have to read all those documents to find out whether they actually contain any information that’s relevant to your search.
+
+
+
+Text mining software is very different, because it reads and analyzes the documents on your behalf.
+
+It can understand real meanings thanks to sophisticated Natural Language Processing (NLP) algorithms, which allow it to recognize similar concepts – even if they’ve been expressed in very different ways, or with different spellings.
+
+A search using text mining will identify facts, relationships and assertions that would otherwise remain buried in a mass of ‘big data’.
+
+
+
+ 
+
+You can read more about text mining here, or watch the video below.
+
+ 
+
+
+Linguamatics I2E Solutions Overview
+Linguamatics I2E Solutions OverviewDownload
+
+Like to know more?Contact us
+About I2E
+What is text mining?
+More about text mining
+Integrations & add-ons
+What's new in I2E?
+I2E OnDemand
+Chemistry-enabled text mining
+ Queen's Award   Frost and Sullivan Award
